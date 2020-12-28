@@ -1,6 +1,6 @@
 export default {
   scheme: 'twilight',
-  author: 'david hart (http://hart-dev.com)',
+  author: 'david hart',
   base00: '#1e1e1e',
   base01: '#323537',
   base02: '#464b50',
